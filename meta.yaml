@@ -1,0 +1,12 @@
+package:
+  name: chai
+  version: 1.9.1
+
+requirements:
+  build:
+    - nodejs
+  run:
+    - nodejs
+
+about:
+  home: http://chaijs.com/
